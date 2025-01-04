@@ -1,4 +1,4 @@
-![[Visitor Badge](https://github.com/Khoa-Dam)](https://visitor-badge.laobi.icu/badge?page_id=Khoa-Dam.Khoa-Dam)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Khoa-Dam.Khoa-Dam" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KhoaDam!;" />
@@ -18,7 +18,7 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:dinhthienmenh1505@gmail.com">
+  <a href="mailto:damngockhoa0703@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dinh-thien-menh-5b59b9299" target="_blank">
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 The Snake Is Eating My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Menh1505/Menh1505/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -55,15 +55,15 @@
 <br>
 <div align=center>
   <!-- Thay đổi streak stats -->
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Menh1505&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Khoa-Dam&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
   <!-- Thay đổi readme stats -->
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Menh1505&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Khoa-Dam&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
   <br/>
   
   <!-- Thay đổi top langs -->
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KhoaDam&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Khoa-Dam&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
