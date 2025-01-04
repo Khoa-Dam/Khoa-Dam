@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 The Snake Is Eating My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Khoa-Dam/Khoa-Dam/blob/output/github-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
@@ -77,5 +77,7 @@
 </div>
 
 <br/>
+
+![snake gif](https://github.com/Khoa-Dam/Khoa-Dam/blob/output/github-snake-dark.svg)
 
 
