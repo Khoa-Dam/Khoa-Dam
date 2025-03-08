@@ -21,7 +21,7 @@
   <a href="mailto:damngockhoa0703@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/khoa.am.54815" target="_blank">
+  <a href="[https://www.facebook.com/khoa.am.54815](https://www.facebook.com/khoa0703)" target="_blank">
      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="[https://www.linkedin.com/in/khoa-am-54815](https://www.linkedin.com/in/khoa-%C4%91%C3%A0m-b13671335/)" target="_blank">
