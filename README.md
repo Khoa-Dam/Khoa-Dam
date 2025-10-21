@@ -44,16 +44,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 The Snake Is Eating My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/Khoa-Dam/Khoa-Dam/blob/output/github-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
