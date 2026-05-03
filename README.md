@@ -210,42 +210,72 @@
 
 ---
 
-<h2 align="center">📈 Contribution Activity</h2>
+---
+
+<h2 align="center">📈 Activity & Contributions</h2>
 
 <br/>
 
 <div align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Khoa-Dam&theme=react-dark&hide_border=true&area=true" 
-    alt="contribution graph"
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Khoa-Dam&theme=react-dark&hide_border=true&area=true&custom_title=Kaito's%20Contribution%20Graph" 
+    alt="Kaito's contribution graph"
   />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-snake-dark.svg"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-snake.svg"
+    />
+    <img 
+      width="95%"
+      alt="github contribution snake animation" 
+      src="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-snake.svg"
+    />
+  </picture>
 </div>
 
 <br/>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">💭 Developer Philosophy</h2>
 
 <br/>
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Khoa-Dam/Khoa-Dam/output/github-contribution-grid-snake.svg" 
-    alt="snake animation"
-  />
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>⚡ Build Fast</h3>
+      <p>Move quickly, validate ideas, and ship real products.</p>
+    </td>
+    <td align="center">
+      <h3>🧠 Learn Deeply</h3>
+      <p>Understand the fundamentals behind every tool and system.</p>
+    </td>
+    <td align="center">
+      <h3>🚀 Ship Value</h3>
+      <p>Focus on solving real problems with clean and scalable solutions.</p>
+    </td>
+  </tr>
+</table>
+
 </div>
-
-<br/>
-
----
-
-<h2 align="center">💡 Developer Mindset</h2>
 
 <br/>
 
 <div align="center">
 
 ```txt
-Build fast. Learn deeply. Ship useful products.
-Web2 foundation. Web3 innovation. AI-powered workflow.
+Web2 foundation  •  Web3 innovation  •  AI-powered workflow
